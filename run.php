@@ -16,9 +16,9 @@ echo "
 	$---------$--------$
 	
 	\n";
-echo "[o] $$$$$$$$$$ Auto  Story Viewer by Photolooz $$$$$$$$$$$$$$$$$$ [o]\n";
-echo "  $----$----$ Author nthanfp Modified by 🤑 @mohsanjid 🤑 $----$---$   \n\n";
-echo " Subscribe my Youtube channel $ PhotoLooz $ for more videos --😍
+echo "[o] $$$$$$$$$$ Auto  Story Viewer by SOUFSAN $$$$$$$$$$$$$$$$$$ [o]\n";
+echo "  $----$----$ Author nthanfp Modified by 🤑 @SOUFSAN 🤑 $----$---$   \n\n";
+echo " دعواتك معي و مع والداي و شكرا لك  --😍
  \n\n";
 
 if($cookie){
@@ -30,7 +30,7 @@ if($cookie){
 		$getakunV2	= json_decode($getakunV2[1], true);
 		echo "[~] Login as @".$getakun['user']['username']." \n";
 		echo "[~] [Media : ".$getakunV2['user']['media_count']."] [Follower : ".$getakunV2['user']['follower_count']."] [Following : ".$getakunV2['user']['following_count']."]\n";
-		echo "[~] Please wait 5 second for loading script\n";
+		echo "[~] Please wait 1 second for loading script\n";
 		echo "[~] "; for($x = 0; $x <= 4; $x++){ echo "========"; sleep(1); } echo "\n\n";
 		do {
 			$targets	= file_get_contents('./data/'.$targetFile);

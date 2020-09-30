@@ -6,8 +6,8 @@ Mass Looker ,it’s a console-based script created for massvoting (mass poll vot
 
 # Features
  Author credits : nthanfp
- Modified by @mohsanjid Follow on Instagram www.instagram.com/mohsanjid/ and
- Subscribe Youtube Channel for more videos www.youtube.com/c/PhotoLooz
+ Modified by @SOUFSAN Follow on Instagram https://www.instagram.com/soufsan/ 
+ لا تبخل علي و والداي من الدعوات في ضهر الغيب هدا ما يسعدني أكثر و أكثر و شكرا لك أحبك في الله
 
   - Views Stories
   - Question Answer
@@ -29,7 +29,7 @@ Follow These Steps for Installation
 $pkg install php
 $pkg install git
 $pkg install mc
-$ git clone https://github.com/sanjidtk/masslooker
+$ git clone https://github.com/SOUFIANEZAZA/SOUFSAN
 $ cd masslooker
 $ php login.php
 $ php run.php

@@ -22,7 +22,7 @@ Mass Looker ,it’s a console-based script created for massvoting (mass poll vot
    
 # Installation
 
-MassLooker requires [PHP](https://www.php.net/) 5.6 to run.
+SOUFSAN requires [PHP](https://www.php.net/) 5.6 to run.
 
 ```sh
 Follow These Steps for Installation
@@ -30,7 +30,7 @@ $pkg install php
 $pkg install git
 $pkg install mc
 $ git clone https://github.com/SOUFIANEZAZA/SOUFSAN
-$ cd masslooker
+$ cd SOUFSAN
 $ php login.php
 $ php run.php
 ```

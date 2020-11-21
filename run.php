@@ -162,9 +162,9 @@ if($cookie){
 			}
 			if(count($today) > '1900'){
 				echo "[~] ".count($today)." story reacted today\n";
-				echo "[~] Limit instagram api 2000 seen/day\n";
+				echo "[~] Limit instagram api 10000 seen/day\n";
 				echo "[~] Sleep for 20 hours to bypass instagram limit\n";
-				sleep(1000);
+				sleep(10000);
 				echo "[~] End sleep...\n\n";
 			}
 		} while($loop == true);

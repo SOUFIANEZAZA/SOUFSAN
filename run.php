@@ -160,11 +160,11 @@ if($cookie){
 				echo "[~] ".date('d-m-Y H:i:s')." - Sleep for 30 second to bypass instagram limit\n";
 				echo "[~] "; for($x = 0; $x <= 4; $x++){ echo "========"; sleep(6); } echo "\n\n";
 			}
-			if(count($today) > '10000'){
+			if(count($today) > '1900'){
 				echo "[~] ".count($today)." story reacted today\n";
-				echo "[~] Limit instagram api 10000 seen/day\n";
+				echo "[~] Limit instagram api 2000 seen/day\n";
 				echo "[~] Sleep for 1 MINUTE to bypass instagram limit\n";
-				sleep(10);
+				sleep(72000);
 				echo "[~] End sleep...\n\n";
 			}
 		} while($loop == true);

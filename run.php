@@ -16,7 +16,7 @@ echo "
 	$---------$--------$
 	
 	\n";
-echo "[o] $$$$$$$$$$ Auto  Story Viewer by Photolooz $$$$$$$$$$$$$$$$$$ [o]\n";
+echo "[o] $$$$$$$$$$ Auto  Story Viewer by @SOUFSAN $$$$$$$$$$$$$$$$$$ [o]\n";
 echo "  $----$----$ Author nthanfp Modified by 🤑 @mohsanjid SOUFAN 🤑 $----$---$   \n\n";
 echo " Subscribe my Youtube channel $ PhotoLooz $ for more videos --😍
  \n\n";
